@@ -1,0 +1,1291 @@
+@media screen and (max-width: 520px) {
+
+    .contacts {
+        float: none;
+        text-align: center;
+        margin-top: 5px;
+    }
+    #logo-header {
+        float: none;
+        margin-top: 3px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .header-top {
+        height: 142px;
+    }
+    .menu-nav .container .nav-block {
+        display: none;
+    }
+    .menu-nav .nav-open {
+        display: block;
+        float: right;
+        margin-right: 18px;
+        margin-top: 18px;
+        cursor: pointer;
+    }
+}
+
+@media screen and (max-width: 1340px) {
+    
+
+    /* 
+        responsive for testimonials map
+    */
+
+
+    .map-testimonials img,
+    .map-testimonials h1 {
+        display: none;
+    }
+    .reviews-block {
+        margin-left: calc(50% - 420px);
+    }
+    .circles {
+        left: calc(50% - 25px);
+    }
+    #testimonials-map {
+        margin-top: 926px;
+        padding-top: 555px;
+        height: 70px;
+    }
+
+
+    /* 
+        responsive for asked questions
+    */
+
+
+
+}
+
+
+
+@media screen and (max-width: 1550px) {
+    
+    .success-stories .success-stories-logo {
+        display: none;
+    }
+
+
+    /* 
+        responsive for asked questions
+    */
+
+    .asked-questions-photo img {
+        /* display: none; */
+    }
+    .asked-questions-text {
+        margin-left: calc(50% - 614px);
+        position: relative;
+    }
+    .asked-questions-text h1 {
+        /* text-align: center; */
+    }
+}
+
+
+
+@media screen and (max-width: 1280px) {
+
+    /*
+        responsive for main-header
+    */
+
+    .header-top .container {
+        width: 100%;
+    }
+    .menu-nav .container {
+        width: 100%;
+    }
+    #text-header {
+        margin-top: -50px;
+    }
+    #text-header h2{
+        font-size: 40px;
+    }
+    #logo-header img {
+        margin-left: 15px;
+    }
+    .header-top .contacts {
+        margin-right: 10px;
+    }
+    .contacts div {
+        margin-right: 60px;
+    }
+    .menu-nav .btn-img {
+        float: right;
+        margin-top: 15px;
+        margin-right: 10px;
+    }
+    #text-header a {
+        width: 250px;
+        font-size: 14px;
+    }
+
+
+
+    /* 
+        responsive for main-header
+    */
+
+
+    #text-header {
+        margin-top: -30px;
+    }
+
+
+
+
+    /*
+        responsive for menu-nav
+    */
+
+    .menu-nav li a {
+        font-size: 13px;
+    }
+    .menu-nav li {
+        margin-right: 75px;
+    }
+
+
+
+    /* 
+        responsive for about-us
+    */
+
+
+
+    .about-us .container {
+        width: 95%;
+    }
+    .about-competence .competence-item {
+        width: 30%;
+        margin-right: 5%;
+    }
+    .competence-item p {
+        width: 80%;
+    }
+
+
+    #subscribe {
+        background: #F6F7EB;
+        width: 100%;
+        height: 400px;
+        margin-top: 2740px;
+    }
+
+
+
+    /* 
+        responsive for our-mission
+    */
+
+
+    .our-mission-p p {
+        margin-left: 130px;
+        width: 82%;
+        margin-bottom: 30px;
+    }
+    .our-mission-block h2 {
+        margin-left: 130px;
+    }
+    .our-mission-block button {
+        margin-left: 130px;
+    }
+    .our-mission-logo {
+        margin-left: 430px;
+    }
+
+
+    /* 
+        responsive for success stories
+    */
+
+    .success-stories-txt h2 {
+        font-size: 35px;
+    }
+
+    .success-stories-txt p {
+        font-size: 13px;
+        width: 470px;
+    }
+    .success-stories-txt a {
+        font-size: 13px;
+    }
+
+
+    /* 
+        responsive for lemons
+    */
+
+    .lemons h2 {
+        font-size: 90px;
+    }
+    .lemons p {
+        font-size: 14px;
+    }
+
+
+    /* 
+        responsive for news
+    */
+
+
+    #news .news-block {
+        display: block;
+    }
+    #news .elements-news-block {
+        margin: 0 auto;
+        margin-bottom: 20px;
+        width: 430px;
+        height: 580px;
+    }
+    .elements-news-block .news-bg {
+        width: 100%;
+    }
+    #news .news {
+        width: 100%;
+    }
+
+
+    /* 
+        responsive for testimonials map
+    */
+
+    #testimonials-map {
+        margin-top: 2116px;
+    }
+    .asked-questions-text {
+        margin-left: calc(29% - 160px);
+    }
+
+
+
+    /* 
+        responsive for asked questions
+    */
+
+
+    #asked-questions {
+        /* margin-top: 1190px; */
+        display: none;
+    }
+
+    
+
+
+    /* 
+        responsive for asked questions
+    */
+
+    .personal-data {
+        display: block;
+        position: relative;
+        left: calc(50% - 122px);
+        margin-top: 10px;
+        width: 240px;
+    }
+
+
+    .personal-data #last-name,
+    .personal-data #first-name,
+    .personal-data #email-adress {
+        left: 10px;
+    }
+
+    .personal-data input {
+        left: 0px;
+    }
+    #sing-up-btn {
+        margin-left: 0px;
+        width: 244px;
+    }
+    #subscribe h1 {
+        padding-top: 37px;
+    }
+}
+
+@media screen and (max-width: 1064px) {
+    footer .footer {
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+
+    /*
+        responsive for header
+    */
+
+    .header-bg-block h2 {
+        padding-top: 20%;
+    }
+
+    .header-top {
+        font-size: 13.8px;
+    }
+    .header-top .contacts {
+        margin-top: 20px;
+    }
+    .menu-nav li {
+        margin-right: 70px;
+    }
+    .contacts div {
+        margin-right: 45px;
+        float: none;
+    }
+    .header-top {
+        height: 105px;
+    }
+    nav div .btn {
+        width: 150px;
+    }
+    .nav-block ul li:first-child {
+        margin-left: 10px;
+    }
+
+
+
+    /*
+        responsive for menu-nav
+    */
+
+    .menu-nav li {
+        margin-right: 35px;
+    }
+
+
+    /*
+        responsive for main-header
+    */
+
+
+    #text-header {
+        margin-top: 27px;
+    }
+    #text-header h2 {
+        font-size: 32px;
+        margin-bottom: 30px;
+    }
+    #text-header a {
+        width: 190px;
+        font-size: 12px;
+        height: 40px;
+    }
+
+
+
+    #subscribe {
+        background: #F6F7EB;
+        width: 100%;
+        height: 400px;
+        margin-top: 3560px;
+    }
+
+    /* 
+        responsive for about-us
+    */
+
+
+
+    .about-us .container {
+        width: 95%;
+    }
+    .about-competence .competence-item {
+        width: 30%;
+        margin-right: 5%;
+    }
+    .competence-item {
+        height: 320px;
+    }
+
+
+
+
+    /* 
+        responsive for our-mission
+    */
+
+    .our-mission {
+        display: none;
+    }
+
+    
+
+    /* 
+        responsive for success stories
+    */
+
+    .success-stories {
+        display: none;
+    }
+
+
+    /* 
+        responsive for lemons
+    */
+
+    #lemons {
+        display: none;
+    }
+
+    /* 
+        responsive for news
+    */
+
+    #news {
+        margin-top: 0px;
+    }
+
+
+
+    /* 
+        respoonsive for testimonials map
+    */
+
+    .arrow,
+    .circles {
+        visibility: hidden;
+    }
+
+    .reviews-block {
+        display: block;
+    }
+
+    #testimonials-map {
+        height: 570px;
+        margin-top: 2002px;
+    }
+    .asked-questions-text h1 {
+        font-size: 21px;
+    }
+    .reviews-block {
+        margin-left: calc(50% - 185px);
+    }
+    .reviews {
+        margin-bottom: 20px;
+    }
+
+
+    /* 
+        responsive for asked questions
+    */
+
+
+    #asked-questions {
+        margin-top: 2015px;
+    }
+
+
+
+    /* 
+        responsive for footer
+    */
+
+
+    .footer {
+        flex-wrap: wrap;
+    }
+    footer {
+        height: auto;
+    }
+    .contact-us-block {
+        margin-left: 150px;
+        margin-bottom: 20px;
+    }
+    footer p {
+        margin: 0;
+    }
+
+    .contact-us-block {
+        margin-left: 0;
+    }
+    footer .footer {
+        width: 66%;
+    }
+
+}
+
+@media screen and (max-width: 890px) {
+    footer .footer {
+        flex-direction: column;
+        width: 31%;
+    }
+    .quick-links-block {
+        margin-top: unset;
+    }
+    .quick-links-block-2 {
+        margin-top: 20px;
+    }
+}
+
+@media screen and (max-width: 849px) {
+
+    .competence-item p {
+        width: 85%;
+    }
+    .about-competence .competence-item {
+        height: 335px;
+    }
+    .asked-questions-text h1 {
+        font-size: 17px;
+    }
+}
+
+
+@media screen and (max-width: 799px) {
+
+}
+
+
+
+@media screen and (max-width: 768px){
+    
+
+    /*
+        responsive for header
+    */
+
+    .header-bg-block h2 {
+        padding-top: 28%;
+        font-size: 33px;
+    }
+    .header-bg-block a {
+        width: 200px;
+        height: 45px;
+        font-size: 13px;
+    }
+
+    .header-top {
+        height: 178px;
+    }
+    .header-top .contacts {
+        /* margin-top: 100px; */
+        float: none;
+        width: 100%;
+    }
+    #logo-header {
+        float: none;
+    }
+    .header-top .contacts {
+        text-align: center;
+        margin-right: -15px;
+    }
+    #logo-header {
+        padding-left: calc(50% - 100px);
+    }
+    #logo-header {
+        padding-left: calc(50% - 475px);
+    }
+    .computer-menu-active {
+        display: none;
+    }
+    .mobile-menu-active {
+        display: block;
+    }
+    .menu-nav .container {
+        border-bottom: 1px solid #a0a0a0;
+    }
+    .header-top {
+        border: none;
+    }
+    
+
+    
+    /*
+        show mobile-nav menu
+    */
+
+    .contacts {
+        float: none;
+        text-align: center;
+        margin-top: 5px;
+    }
+    #logo-header {
+        float: none;
+        margin-top: 3px;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 15px;
+    }
+    .menu-nav .container .nav-block {
+        display: none;
+    }
+    .menu-nav .nav-open {
+        display: block;
+        float: right;
+        margin-right: 18px;
+        margin-top: 18px;
+        cursor: pointer;
+    }
+
+
+
+    /*
+        responsive for main-header
+    */
+
+    #text-header {
+        margin-top: 60px;
+    }
+    #text-header h2 {
+        font-size: 26px;
+        margin-bottom: 22px;
+    }
+    #text-header a {
+        width: 160px;
+        font-size: 10px;
+        height: 33px;
+    }
+
+
+
+    /* 
+        responsive for main-quote
+    */
+
+    .main-quote h3 {
+        font-size: 23px;
+    }
+    .main-quote h4 {
+        font-size: 13px;
+    }
+
+
+
+    /* 
+        responsive for about-us
+    */
+
+    .about-us .container {
+        width: 90%;
+    }
+    .about-competence .competence-item {
+        width: 70%;
+        float: none;
+        margin: 0 auto;
+    }
+    .competence-item {
+        height: 290px;
+    }
+    .about-competence .competence-item:last-child {
+        margin-right: auto;
+    }
+
+    .item-img.technical-support {
+        padding-top: 50px;
+        background-position: center;
+        background-repeat: no-repeat; 
+        margin-bottom: 10px;
+    }
+    .item-img.partner {
+        padding-top: 50px;
+        background-position: center;
+        background-repeat: no-repeat; 
+        margin-bottom: 10px;
+    }
+    .item-img.leader {
+        padding-top: 50px;
+        background-position: center;
+        background-repeat: no-repeat; 
+        margin-bottom: 10px;
+    }
+
+
+    /* 
+        responsive for news
+    */
+
+    #news .elements-news-block {
+        width: 350px;
+        height: 520px;
+    }
+    #news {
+        top: 2555px;
+    }
+
+
+
+    /* 
+        responsive for testemonials-map
+    */
+
+    #testimonials-map {
+        margin-top: 1400px;
+    }
+
+    #asked-questions {
+        display: none;
+    }
+
+
+    /* 
+        responsive for subscribe
+    */
+
+
+    #subscribe {
+        margin-top: 2963px;
+    }
+
+    #subscribe h1 {
+        font-size: 30px;
+    }
+    #subscribe p {
+        font-size: 13px;
+    }
+    #your-privacy {
+        font-size: 13px;
+    }
+    .personal-data {
+        margin-top: 25px;
+    }
+    .personal-data input {
+        width: 112px;
+        height: 40px;
+    }
+    .personal-data {
+        left: calc(50% - 78px);
+    }
+    #sing-up-btn {
+        width: 155px;
+        font-size: 12px;
+    }
+
+    /* 
+        responsive for footer
+    */
+
+    /* .quick-links-block-2 {
+        margin-left: 55px;
+        margin-top: 20px;
+    }
+    .contact-us-block {
+        margin-top: 20px;
+        margin-left: 140px;
+    } */
+    footer .footer {
+        flex-direction: column;
+        width: 58%;
+    }
+    footer .logo-block h3 {
+        font-size: 13px;
+    }
+    .quick-links-block h1 {
+        font-size: 18px;
+    }
+    .links a {
+        font-size: 13px;
+    }
+    .quick-links-block-2 a {
+        font-size: 13px;
+    }
+    .quick-links-block button {
+        width: 100px;
+        height: 35px;
+        font-size: 12px;
+    }
+    .contact-us-block h2 {
+        font-size: 18px;
+    }
+    .contact-us-block div {
+        font-size: 13px;
+    }
+    footer p {
+        font-size: 13px;
+    }
+}
+
+
+@media screen and (max-width: 592px) {
+
+    /* 
+        responsive for footer
+    */
+
+
+    /* footer .contact-us-block {
+        margin-top: 5px;
+        margin-left: 90px;
+    }
+    .quick-links-block-2 {
+        margin-top: 0px;
+    }
+    .quick-links-block {
+        margin-top: 0px;
+        margin-left: 90px;
+    } */
+}
+
+
+@media screen and (max-width: 550px){
+
+
+
+    /* 
+        responsive for main-header
+    */
+
+    #text-header {
+        margin-top: 335px;
+    }
+
+    .header-bg {
+        display: none;
+    }
+    .main-header-mobile {
+        display: block;
+    }
+    .main-header-mobile img{
+        width: 100%;
+    }
+    #text-header h2 {
+        font-size: 36px;
+        margin-bottom: 34px;
+    }
+    #text-header a {
+        width: 175px;
+        font-size: 11.5px;
+        height: 38px;
+    }
+    .contacts div {
+        margin: 0;
+    }
+    .header-top {
+        font-size: 12.5px;
+        height: 172px;
+    }
+
+    .main-header-mobile .main-mobile h2 {
+        font-size: 25px;
+        padding-top: 42%;
+    }
+    .main-header-mobile .main-mobile a {
+        width: 170px;
+        height: 40px;
+        font-size: 11px;
+    }
+
+    footer .footer {
+        flex-direction: column;
+        width: 60%;
+    }
+    footer .logo-block h3 {
+        font-size: 12px;
+    }
+    .quick-links-block h1 {
+        font-size: 17px;
+    }
+    .links a {
+        font-size: 12px;
+    }
+    .quick-links-block-2 a {
+        font-size: 12px;
+    }
+    .quick-links-block button {
+        width: 100px;
+        height: 35px;
+        font-size: 12px;
+    }
+    .contact-us-block h2 {
+        font-size: 17px;
+    }
+    .contact-us-block div {
+        font-size: 12px;
+    }
+    footer p {
+        font-size: 12px;
+    }
+
+
+
+    /* 
+        responsive for main-quote
+    */
+
+    .main-quote h3 {
+        font-size: 20px;
+        width: 95%;
+        padding-top: 25px;
+        padding: 0;
+        padding-bottom: 40px;
+        margin: 0 auto;
+    }
+    .main-quote h4 {
+        font-size: 11px;
+    }
+    .main-quote {
+        margin-top: -4px;
+    }
+    .main-quote .container {
+        padding-top: 25px;
+    }
+
+    /* 
+        responsive for about-us
+    */
+
+
+    .about-us h3 {
+        font-size: 34px;
+    }
+    .competence-item h2 {
+        font-size: 16px;
+    }
+    .competence-item p {
+        font-size: 13px;
+    }
+
+
+
+    /* 
+    responsive for news
+    */
+
+    #news .elements-news-block {
+        width: 340px;
+        height: 510px;
+    }
+    .news-windows-text h2 {
+        font-size: 15px;
+    }
+    .news-windows-text p {
+        font-size: 13px;
+    }
+    .elements-news-block a {
+        font-size: 13px;
+    }
+    #news h1 {
+        font-size: 23px;
+        left: calc(50% - 28px);
+    }
+    #news {
+        top: 2590px;
+    }
+
+
+
+    /* 
+        responsive for testimonials-map
+    */
+
+
+    #testimonials-map {
+        margin-top: 1420px;
+    }
+
+
+    /* 
+        responsive for footer
+    */
+
+    /* .quick-links-block-2 {
+        margin-top: 75px;
+        margin-left: 1%;
+    } */
+}
+
+
+
+@media screen and (max-width: 480px) {
+
+
+    /* 
+        responsive for testimonials map
+    */
+    #testimonials-map {
+        margin-top: 1610px;
+    }
+
+
+    .review-text h1 {
+        font-size: 17px;
+    }
+
+    .review-text p {
+        font-size: 13px;
+    }
+    .review-text h2 {
+        font-size: 14px;
+    }
+
+
+
+    /* 
+        responsive for subscribe
+    */
+
+    #subscribe {
+        margin-top: 3172px;
+    }
+
+
+    /* 
+        responsive for footer
+    */
+
+    /* footer .logo-block {
+        margin: 0 auto;
+    } */
+
+    footer .footer {
+        flex-direction: column;
+        width: 85%;
+    }
+
+}
+
+
+@media screen and (max-width: 390px) {
+    
+
+    /* 
+        responsive for footer
+    */
+
+    /* .quick-links-block {
+        margin-left: 55px;
+    }
+    .quick-links-block-2 {
+        margin-left: -10px;
+        margin-top: 60px;
+    }
+    footer .contact-us-block {
+        margin-top: 10px;
+        margin-left: 50px;
+    } */
+    footer .logo-block h3 {
+        font-size: 13px;
+    }
+    .follow-us-block h6 {
+        font-size: 13px;
+    }
+    .quick-links-block h1 {
+        font-size: 17px;
+        margin-bottom: 5px;
+    }
+    .quick-links-block a {
+        font-size: 12px;
+    }
+    .contact-us-block h2 {
+        font-size: 17px;
+    }
+    .contact-us-block div {
+        font-size: 13px;
+        margin-top: 10px;
+    }
+    footer p {
+        font-size: 12px;
+    }
+    
+    
+}
+
+@media screen and (max-width: 375px){
+    
+
+    /* 
+        responsive for main-header
+    */
+
+
+    #text-header h2 {
+        font-size: 25px;
+        margin-bottom: 30px;
+    }
+    #text-header a {
+        width: 140px;
+        font-size: 9.5px;
+        line-height: 3.8;
+    }
+    #text-header {
+        margin-top: 290px;
+    }
+
+
+
+    /* 
+        responsive for main-quote
+    */
+
+
+    .main-quote h3 {
+        font-size: 16px;
+    }
+    .main-quote h4 {
+        font-size: 10px;
+    }
+
+    
+
+    /* 
+        responsive for about-us
+    */
+
+
+    .about-us h3 {
+        font-size: 27px;
+    }
+    .about-description p {
+        font-size: 13px;
+    }
+    .about-competence .competence-item {
+        width: 85%;
+    }
+
+
+    /* 
+        responsive for news
+    */
+
+    #news .elements-news-block {
+        width: 75%;
+        height: 90%;
+    }
+    #news {
+        top: 2480px;
+    }
+    .news-windows-text p {
+        width: 75%;
+        font-size: 11px;
+    }
+    .elements-news-block a {
+        margin-top: 60px;
+        font-size: 11px;
+        padding-bottom: 20px;
+    }
+    .news-windows-text {
+        width: 130%;
+    }
+    .news-windows-text h2 {
+        font-size: 12px;
+    }
+    .news-windows-text h3 {
+        font-size: 12px;
+    }
+    .elements-news-block a {
+        font-size: 10px;
+    }
+
+
+
+    /* 
+        responsive for news
+    */
+    .news-windows-text {
+        width: 110%;
+    }
+
+
+    /* 
+        responsive for testimonials map
+    */
+
+    #testimonials-map {
+        margin-top: 1320px;
+    }
+
+    .reviews-block .reviews {
+        width: 80%;
+        height: 85%;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+
+    .reviews img {
+        margin-left: calc(50% - 60px);
+    }
+
+    .review-text h1 {
+        font-size: 16px;
+    }
+
+    .review-text p {
+        font-size: 12px;
+    }
+    .review-text h2 {
+        font-size: 13px;
+    }
+    .review-text {
+        width: 70%;
+    }
+
+
+
+    /* 
+        responsive for subscibe
+    */
+
+    #subscribe {
+        margin-top: 2882px;
+    }
+    .personal-data {
+        width: 100px;
+    }
+    #subscribe p {
+        margin: 0 auto;
+        width: 70%;
+    }
+    #subscribe h1 {
+        margin-bottom: 0px;
+    }
+    #your-privacy {
+        margin-top: 20px;
+    }
+
+    footer .footer {
+        flex-direction: column;
+        width: 95%;
+    }
+}
+
+
+@media screen and (max-width: 322px) {
+    
+
+
+    /* 
+        responsive for subscribe
+    */
+
+    #your-privacy {
+        margin-top: 15px;
+    }
+    
+    
+    /* 
+        responsive for footer
+    */
+
+    .quick-links-block-2 {
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+    .quick-links-block {
+        margin-left: 45px;
+    }
+    footer .contact-us-block {
+        margin-left: 45px;
+    }
+
+}
+
+@media screen and (max-width: 310px) {
+    
+    .header-top {
+        font-size: 11px;
+        height: 180px;
+    }
+
+    .main-header-mobile .main-mobile h2 {
+        font-size: 20px;
+        padding-top: 65%;
+    }
+
+    .main-header-mobile .main-mobile a {
+        width: 140px;
+        height: 30px;
+        font-size: 9px;
+    }
+}
